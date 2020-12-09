@@ -1,7 +1,6 @@
 # video and quiz assignmnt
 
-## Please create a GitHub repo to share the codebase.
-and also share the generated APK
+## Please create a GitHub repo to share the codebase and also share the generated APK
 
 ## References: 
 
