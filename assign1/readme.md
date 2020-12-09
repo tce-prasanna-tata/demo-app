@@ -1,6 +1,9 @@
 # video and quiz assignmnt
 
-References: 
+## Please create a GitHub repo to share the codebase.
+and also share the generated APK
+
+## References: 
 
 https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 
