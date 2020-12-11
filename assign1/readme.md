@@ -2,9 +2,7 @@
 
 ## Please create a GitHub repo to share the codebase and also share the generated APK
 
-## References: 
 
-https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 
 ## screen1 : list of topics
 
@@ -21,6 +19,11 @@ https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 - on the end of the video the quiz will launch
 
 ## screen3 : quiz
+
+### References: 
+
+https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
+
 - the quiz will have 3 layouts: vertical, horizontal and grid
 - the grid layout reference is given in a sample video, other 2 can be derieved from it only
 - the effects and animations to be achieved as much as yu can
