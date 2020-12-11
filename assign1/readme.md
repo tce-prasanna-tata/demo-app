@@ -9,6 +9,7 @@
 - On launch of App there will be a list of topics
 
 ## screen2 : video and notes
+### reference: https://github.com/tataclassedge/demo-app/blob/main/assign1/Screenshot%202020-10-05%20at%204.23.25%20PM.png
 
 - the video will play on click of any topic
 - user can add notes on video and will be stored on a state
@@ -20,9 +21,7 @@
 
 ## screen3 : quiz
 
-### References: 
-
-https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
+### Reference: https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 
 - the quiz will have 3 layouts: vertical, horizontal and grid
 - the grid layout reference is given in a sample video, other 2 can be derieved from it only
