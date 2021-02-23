@@ -10,6 +10,7 @@ Readme file can contain steps to run
 
 - [ ] the quiz will have 3 layouts and can be changed with 3 upfront buttons provided in screen: 
     vertical, horizontal and grid
+    
     This is to check the responsiveness of the design to fit in different form factors.
 - [ ] the grid layout reference is given in a sample video, other 2 can be derived from it only
 - [ ] the effects and animations to be achieved as much as you can
