@@ -6,6 +6,7 @@ Readme file can contain steps to run
 ## screen1 : quiz
 ### Reference: https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 
+- [ ] use the 2 jsons provided to populate the questions in quiz
 - [ ] the quiz will have 3 layouts and can be changed with 3 upfront buttons provided in screen: 
     vertical, horizontal and grid
     
