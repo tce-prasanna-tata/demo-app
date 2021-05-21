@@ -6,8 +6,6 @@ Readme file can contain steps to run
 ## screen1 : quiz
 ### Reference: https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 
-### Solar System Exploration, 1950s – 1960s
-
 - [ ] the quiz will have 3 layouts and can be changed with 3 upfront buttons provided in screen: 
     vertical, horizontal and grid
     
