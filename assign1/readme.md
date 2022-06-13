@@ -1,8 +1,10 @@
 # Quiz assignment
 ## Please create a GitHub repo to share the codebase and also share the generated APK
 
+
 Also add all the task points to your readme file and update the status to each as done or not done.
 Readme file can contain steps to run
+## This is a Platform to showcase your technical capabilities
 ## screen1 : quiz
 ### Reference: https://dribbble.com/shots/14012432-Quiz-App-Mobile-Design
 
